@@ -5,7 +5,7 @@
 //		开发测试所用OpenCV版本：	2.4.13  
 //		操作系统：Windows 10
 //		人脸对比 API版本：EYEKEY 的人脸对比API (http://www.eyekey.com/devcenter/api/APIface.html)
-//		2017年9月 Created by @胡保林
+//		2017年9月 Created by @胡保林 hu_nobuone@163.com
 //------------------------------------------------------------------------------------------------
 // face_compareDlg.cpp : 实现文件
 //

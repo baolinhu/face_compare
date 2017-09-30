@@ -6,12 +6,12 @@ input：两张人脸照片，可以是直接拍照的，也可以是身份证或
 
 functions：
  * face detect 人脸检测
- * face features detect 人脸特征点检测，68个点
+ * face features detect 人脸特征点检测，43个点
  * face compare 人脸对比
 
 output：
 * 人脸检测 输出性别、年龄、人脸中心点坐标、人脸尺寸等信息
-* 人脸特征点检测 标记和定位出人脸的68个特征点
+* 人脸特征点检测 标记和定位出人脸的43个特征点
 * 输出两张人脸的相似度，百分数显示，越大相似度越高
 
 作者信息 hu_nobuone@163.com 

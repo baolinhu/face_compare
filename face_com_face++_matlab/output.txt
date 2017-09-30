@@ -1,0 +1,6 @@
+人脸对比用时 3.6010秒
+eye similarity is 50.9534
+eyebrow similarity is 44.5654
+mouth similarity is 64.0154
+nose similarity is 41.5726
+face similarity is 61.4055
